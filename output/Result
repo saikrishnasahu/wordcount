@@ -1,0 +1,5 @@
+{"accountNo":65436,"firstName":"Fred","balance":42345,"loanAccountNo":"o4040","loanAmount":40000,"loanOutstanding":20000}
+{"accountNo":19634,"firstName":"Bill","balance":24345,"loanAccountNo":"m2020","loanAmount":20000,"loanOutstanding":100000}
+{"accountNo":12131,"firstName":"Aliko","balance":2345,"loanAccountNo":"a1010","loanAmount":1000,"loanOutstanding":5000}
+{"accountNo":12131,"firstName":"Aliko","balance":2345,"loanAccountNo":"l1010","loanAmount":10000,"loanOutstanding":50000}
+{"accountNo":32454,"firstName":"Catherine","balance":20345,"loanAccountNo":"n3030","loanAmount":30000,"loanOutstanding":150000}
